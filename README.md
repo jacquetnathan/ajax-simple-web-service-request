@@ -4,7 +4,7 @@
 
 
 ## Qu'est ce que c'est :
-Ici vous trouverez l'excercise "ajax-simple-web-service-request" réalisé pendant la premiere partie de ma formation chez Becode. En réalisant le même site qu'une image donner.
+Ici vous trouverez l'excercise "ajax-simple-web-service-request" réalisé pendant la premiere partie de ma formation chez Becode.
 
 
 ## Quand ai-je travaillé dessus :
